@@ -1,7 +1,5 @@
 # Give-Me-Some-Credit-Kaggle-Competition
 
-# Give Me Some Credit — Финансовый скоринг
-
 Проект основан на участии в соревновании Kaggle: [Give Me Some Credit](https://www.kaggle.com/c/GiveMeSomeCredit). Цель — предсказать, случится ли серьёзная просрочка по кредиту у клиента в течение следующих двух лет.
 
 ---
